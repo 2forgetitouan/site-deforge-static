@@ -54,7 +54,12 @@ const routes = {
       <div class="about-content">
         <div class="about-section">
           <h2>Qui suis-je ?</h2>
-          <p>Passionné de technologie et développeur, je crée et maintiens divers projets et outils web. 
+          <p>Je m’appelle Titouan, né en 2008. Actuellement en Bac Pro CIEL, je me passionne pour l’informatique,
+          le réseau, Linux, l’électronique et la cybersécurité. J’aime comprendre comment les choses
+          fonctionnent, expérimenter, apprendre en pratiquant et explorer des domaines techniques par 
+          curiosité et envie de progresser.
+          Mon objectif est de développer mes compétences, mener des projets concrets et évoluer dans le 
+          monde de la tech.
           Ce site sert de hub centralisé pour mes différentes créations et expérimentations.</p>
         </div>
         
@@ -68,20 +73,21 @@ const routes = {
         <div class="about-section">
           <h2>Compétences & Intérêts</h2>
           <div class="skills-tags">
-            <span class="skill-tag">JavaScript</span>
+            <span class="skill-tag">Linux/Bash</span>
             <span class="skill-tag">HTML/CSS</span>
-            <span class="skill-tag">Node.js</span>
-            <span class="skill-tag">Web Scraping</span>
-            <span class="skill-tag">Wake-on-LAN</span>
+            <span class="skill-tag">Intelligence Artificielle</span>
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">Réseau/Web</span>
             <span class="skill-tag">Automatisation</span>
-            <span class="skill-tag">APIs</span>
+            <span class="skill-tag">Recherche de Pannes</span>
+            <span class="skill-tag">Micro-Soudure</span>
             <span class="skill-tag">Open Source</span>
           </div>
         </div>
         
         <div class="about-section">
           <h2>Philosophie</h2>
-          <p>Je crois au partage des connaissances et à la puissance de l'open source. 
+          <p>Je crois au partage des connaissances et à la puissance de l'open source.
           Tous mes projets sont développés avec l'objectif d'être utiles, simples d'utilisation 
           et accessibles à tous.</p>
         </div>
