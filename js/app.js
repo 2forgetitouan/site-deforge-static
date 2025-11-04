@@ -163,6 +163,20 @@ const routes = {
       <p class="page-subtitle">Idées, expériences et remarques sur mes projets</p>
       
       <div class="blog-list">
+        <article class="blog-post future">
+          <div class="blog-date">À venir</div>
+          <h2>Futures fonctionnalités</h2>
+          <p>
+            Prochainement, j'envisage d'ajouter :
+          </p>
+          <ul>
+            <li>Un espace collaboratif pour partager des ressources</li>
+            <li>Un forum de discussion autour de mes projets</li>
+            <li>Des tutoriels et guides d'utilisation</li>
+            <li>Une API publique pour certains outils</li>
+          </ul>
+        </article>
+
         <article class="blog-post">
           <div class="blog-date">Novembre 2025</div>
           <h2>Lancement de deforge.me</h2>
@@ -184,20 +198,6 @@ const routes = {
             Création initiale du concept deforge.me. L'idée est de rassembler tous mes outils 
             et projets dispersés en un seul endroit accessible et bien organisé.
           </p>
-        </article>
-        
-        <article class="blog-post future">
-          <div class="blog-date">À venir</div>
-          <h2>Futures fonctionnalités</h2>
-          <p>
-            Prochainement, j'envisage d'ajouter :
-          </p>
-          <ul>
-            <li>Un espace collaboratif pour partager des ressources</li>
-            <li>Un forum de discussion autour de mes projets</li>
-            <li>Des tutoriels et guides d'utilisation</li>
-            <li>Une API publique pour certains outils</li>
-          </ul>
         </article>
       </div>
     </div>
